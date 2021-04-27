@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "GenJyuuGothicX-Heavy";
+  src: url("GenJyuuGothicX-Heavy.woff2") format("woff2"),
+       url("GenJyuuGothicX-Heavy.woff") format("woff"),
+       url("GenJyuuGothicX-Heavy.ttf") format("truetype"),
+       url("GenJyuuGothicX-Heavy.eot") format("embedded-opentype"),
+       url("GenJyuuGothicX-Heavy.svg") format("svg"),
+       url("GenJyuuGothicX-Heavy.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
